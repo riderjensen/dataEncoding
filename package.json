@@ -19,5 +19,8 @@
   "homepage": "https://github.com/riderjensen/dataEncoding#readme",
   "devDependencies": {
     "nodemon": "^1.18.8"
+  },
+  "dependencies": {
+    "html2canvas": "^1.0.0-alpha.12"
   }
 }
